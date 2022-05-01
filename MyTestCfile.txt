@@ -1,0 +1,35 @@
+#include<stdio.h>
+//thisdfnksndf
+
+/*
+//adafadfsdf
+*/
+
+//comemnt /*sdfsf adasdacoooment
+int main()
+{
+	int a    =     5;
+	int b    =6    ;
+	char c = '"';
+	String s = "uwu 'owo' nun";
+	int str = a&&b;
+	a+=b;
+	int sum = b++ + ++a * a--;
+	int bin = a>>>b;
+	printf("%d\n",a);
+	pritnf("%d\n",b);  
+	printf("%d\n",sum);  
+}                  
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+
+	
